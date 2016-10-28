@@ -1,0 +1,22 @@
+{
+  "name": "Common",
+  "version": "1.0.0",
+  "summary": "short description of Common.",
+  "description": "Good Description",
+  "homepage": "https://github.com/jjmean2/commonjj",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jongwan Lee": "jwlee@vovioskorea.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/jjmean2/commonjj.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Common/Classes/**/*"
+}
